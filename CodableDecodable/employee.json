@@ -1,0 +1,81 @@
+{
+    "status": "success",
+    "data": [{
+        "id": "1",
+        "employee_name": "Tiger Nixon",
+    }, {
+        "id": 2,
+        "employee_name": "Garrett Winters",
+    }, {
+        "id": 3,
+        "employee_name": "Ashton Cox",
+    }, {
+        "id": 4,
+        "employee_name": "Cedric Kelly",
+    }, {
+        "id": 5,
+        "employee_name": "Airi Satou",
+    }, {
+        "id": 6,
+        "employee_name": "Brielle Williamson",
+    }, {
+        "id": 7,
+        "employee_name": "Herrod Chandler",
+    }, {
+        "id": 8,
+        "employee_name": "Rhona Davidson",
+    }, {
+        "id": 9,
+        "employee_name": "Colleen Hurst",
+    }, {
+        "id": 10,
+        "employee_name": "Sonya Frost",
+    }, {
+        "id": 11,
+        "employee_name": "Jena Gaines",
+    }, {
+        "id": 12,
+        "employee_name": "Quinn Flynn",
+    }, {
+        "id": 13,
+        "employee_name": "Charde Marshall",
+    }, {
+        "id": 14,
+        "employee_name": "Haley Kennedy",
+    }, {
+        "id": 15,
+        "employee_name": "Tatyana Fitzpatrick",
+    }, {
+        "id": 16,
+        "employee_name": "Michael Silva",
+    }, {
+        "id": 17,
+        "employee_name": "Paul Byrd",
+    }, {
+        "id": 18,
+        "employee_name": "Gloria Little",
+    }, {
+        "id": 19,
+        "employee_name": "Bradley Greer",
+        "employee_salary": 132000,
+        "employee_age": 41,
+        "profile_image": ""
+    }, {
+        "id": 20,
+        "employee_name": "Dai Rios",
+    }, {
+        "id": 21,
+        "employee_name": "Jenette Caldwell",
+    }, {
+        "id": 22,
+        "employee_name": "Yuri Berry",
+    }, {
+        "id": 23,
+        "employee_name": "Caesar Vance",
+    }, {
+        "id": 24,
+        "employee_name": "Doris Wilder",
+    }],
+    "message": "Success"
+}
+
